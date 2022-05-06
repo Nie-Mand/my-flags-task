@@ -1,0 +1,16 @@
+{
+  "name": "docker-logs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "knex": "^2.0.0",
+    "sqlite3": "^5.0.7"
+  }
+}
